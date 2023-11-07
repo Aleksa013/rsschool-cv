@@ -1,2 +1,2 @@
 # rsschool-cv
-rss stage 1
+https://GITHUB-USERNAME.github.io/rsschool-cv/cv
