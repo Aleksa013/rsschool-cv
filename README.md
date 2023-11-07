@@ -1,2 +1,2 @@
 # rsschool-cv
-rss stage 1
+https://aleksa013.github.io/rsschool-cv/
